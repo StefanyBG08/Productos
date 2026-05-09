@@ -13,7 +13,7 @@ public class MainProd {
         producto1.aplicarDescuento(15);
 
         //Mostrar despues del descuento
-        System.out.println("Después del descuento:");
+        System.out.println("Despues del descuento:");
         producto1.mostrarInfo();
 
         //Mostrar valor inventario
